@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    transition: 0.9s ease-out;
+}
+body {
+    font-family: 'Armata', sans-serif;
+}
+.padding-col{
+    margin: 0px;
+    padding: 0px;
+}
+.img{
+    border-radius: 15px;
+}
+#buttons {
+    text-decoration: none;
+    transition: 0.5s ease-in-out;
+    font-weight: bold;
+    color: #343a40;
+    border: none;
+}
